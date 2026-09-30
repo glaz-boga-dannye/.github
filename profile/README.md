@@ -2,7 +2,7 @@
 
 Главный вопрос этого раздела: какие данные может показать Глаз Бога бот после запроса. Ответ зависит от входного признака и совпавших записей. По телефону, нику и Telegram ID набор полей различается. Здесь разбираем результат по частям, чтобы читатель понимал происхождение связи и не принимал старую запись за сведения о текущем владельце контакта.
 
-[![Открыть Глаз Бога бот в Telegram](https://img.shields.io/badge/Открыть_бота-в_Telegram-2AABEE?style=for-the-badge)](https://glazbogatg.org/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-dannye&utm_content=profile&ref=github_glaz-boga-dannye_profile)
+[![Открыть Глаз Бога бот в Telegram](https://img.shields.io/badge/Открыть_бота-в_Telegram-FFD21A?style=for-the-badge&labelColor=000000)](https://glazbogatg.org/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-dannye&utm_content=profile&ref=github_glaz-boga-dannye_profile)
 
 ## Начните с подробной инструкции
 
